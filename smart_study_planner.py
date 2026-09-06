@@ -1,13 +1,8 @@
-# Smart Study Planner
-# A console-based Python program for recording study sessions
 
 import json
 
-
-# List used to store all study sessions
 sessions = []
 
-# File used to save the study sessions
 FILE_NAME = "study_log.txt"
 
 
