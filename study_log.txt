@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Programming Fundamentals",
+        "topic": "pyhton functions",
+        "date": "Monday",
+        "duration": 20.0
+    },
+    {
+        "subject": "Wed development",
+        "topic": "HTML forms",
+        "date": "Friday",
+        "duration": 30.0
+    },
+    {
+        "subject": "Database systems",
+        "topic": "database tables",
+        "date": "Tuesday",
+        "duration": 60.0
+    },
+    {
+        "subject": "Programming fundamentals",
+        "topic": "List of dictionaries",
+        "date": "Wednesday",
+        "duration": 120.0
+    },
+    {
+        "subject": "Computer networks",
+        "topic": "network topologies",
+        "date": "wednesday",
+        "duration": 45.0
+    }
+]
